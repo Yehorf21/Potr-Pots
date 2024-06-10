@@ -15,7 +15,7 @@ export const Footer = () => {
   return (
     <section className="footer">
       <div className="footer__left-section">
-        <h3 className="footer__title">Adrress</h3>
+        <h3 className="footer__title">Address</h3>
 
         <p className="footer__info">
           United Kingdom 99 Staple Hill Road, Bristol, BS16 5AD
