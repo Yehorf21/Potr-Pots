@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo:
+
+I wish you a pleasant experience visiting the landing:
+
+[DEMO](https://yehorf21.github.io/Potr-Pots/)
+
 ## Overview
 
 The landing page was implemented according to the following design:
@@ -30,12 +36,6 @@ The landing page was implemented according to the following design:
 - Redux.js
 
 Overall, it was an enjoyable experience, and I'm looking forward to my next projects with React.js!
-
-## Demo:
-
-I wish you a pleasant experience visiting the landing:
-
-[DEMO](https://yehorf21.github.io/Potr-Pots/)
 
 ## GitHub:
 
